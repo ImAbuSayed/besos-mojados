@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-mojados/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Besos mojados](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-mojados/) |
+| **Get License** | [Commercial Licensing for Besos mojados](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-mojados/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3457)
 
 ---
 
