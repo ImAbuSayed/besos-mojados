@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-mojados/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Besos mojados](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-mojados/) |
+| **Get License** | [Get a Licensing Quote for Besos mojados](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-mojados/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, the night is young and your eyes are calling
+> Every time you look my way, I just keep on falling
+> Your body is a rhythm that I'm dying to play
+> We can let the music wash all our secrets away
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
