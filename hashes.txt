@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Besos mojados
+
+This log tracks the cryptographic history and versioning for the song **Besos mojados** (besos-mojados).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T22:31:26.792009 | `v1` | `228aa3ec47ea727a789fbb61d7124dd589fda8d1295d51bf659a48723314bb61` | `dee3faa16cbe201be672e3634e3dccdd02c1d7f8dc03786e6a25badfc47afaa6` | `2026-06-16_besos-mojados-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
